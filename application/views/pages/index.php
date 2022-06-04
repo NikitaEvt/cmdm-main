@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="/assets/css/lib/slick.css">
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo CSS; ?>main.css">
 </head>
 
 <body class="bg-white font-f-regular flex flex-col h-screen">
@@ -30,7 +30,6 @@
             <?php $this->load->view($footer); ?>
         </div>
     </div>
-
 
     <script defer src="/assets/js/slider/slick.min.js"></script>
     <script defer src="/assets/js/home.js"></script>

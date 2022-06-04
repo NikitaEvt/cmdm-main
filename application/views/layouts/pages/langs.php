@@ -16,9 +16,9 @@
             ?>
             <div class="header__lang <?= uri(1) == $lang || $_SESSION['lang'] == $lang ? 'header__lang-active' : '' ?>">
                 <a href="javascript:;" data-link="<?= $data_link_without_get ?>"
-                   title="<?= $lang ?>"
-                   class="header__choose <?= uri(1) == $lang || $_SESSION['lang'] == $lang ? 'active' : '' ?>"
-                   onclick="changeLangue(this)">
+                title="<?= $lang ?>"
+                class="header__choose <?= uri(1) == $lang || $_SESSION['lang'] == $lang ? 'active' : '' ?>"
+                onclick="changeLangue(this)">
                     <?= $lang_title[$lang] ?>
                 </a>
             </div>
