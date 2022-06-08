@@ -2195,8 +2195,8 @@ body.overlay::before {
   }
 
   .lg1\:text-xl2 {
-    font-size: 2.5rem; /* 20px */
-    line-height: 2.5rem; /* 28px */
+    font-size: 2rem; /* 20px */
+    line-height: 2rem; /* 28px */
   }
 
   .lg1\:leading-1 {
@@ -2394,10 +2394,6 @@ body.overlay::before {
 
   .lg1\:-top-6 {
     top: -1.25rem;
-  }
-
-  .lg1\:-top-9 {
-    top: -2rem;
   }
 
   .lg1\:-top-12 {
