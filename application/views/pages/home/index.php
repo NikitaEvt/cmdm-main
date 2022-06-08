@@ -14,21 +14,21 @@
         </a>
     </div>
 
-    <div class="home-product-slider">
+    <div class="home-product-slider flex">
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="relative bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-20 lg1:w-10">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
-                    <h5 class="text-xl">2.650 MDL</h5>
-                    <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
+                    <h5 class="text-xl sm1:text-sm">2.650 MDL</h5>
+                    <span class="text-sky-theme text-sm line-through sm1:text-xs">3.000 MDL</span>
                 </div>
                 <img class="object-cover w-full h-40" src="/assets/img/front/rectangleCart2.png" alt="">
-                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5">
+                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5 lg1:text-xs sm1:text-1xs">
                     <h5 class="uppercase">GROHE</h5>
                     <span>Art. 28512001</span>
                 </div>
-                <h2 class="text-lg leading-6 text-gray-900 pt-2">Setul dușului igienic Grohe Bau Edge</h2>
-                <div class="flex justify-between pt-7">
-                    <a href="#" class="bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal">
+                <h2 class="text-lg leading-6 text-gray-900 pt-2 lg1:text-sm sm1:text-1xs">Setul dușului igienic Grohe Bau Edge</h2>
+                <div class="flex justify-between pt-7 lg1:block">
+                    <a href="#" class="relative bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal lg1:text-xs lg1:-top-6 lg1:mr-0 lg1:px-0 sm1:text-1xs">
                         <i class="fas fa-shopping-cart pr-2"></i>
                         В корзину
                     </a>
@@ -41,19 +41,19 @@
             </div>
         </div>
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="relative bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-20 lg1:w-10">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
-                    <h5 class="text-xl">2.650 MDL</h5>
-                    <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
+                    <h5 class="text-xl sm1:text-sm">2.650 MDL</h5>
+                    <span class="text-sky-theme text-sm line-through sm1:text-xs">3.000 MDL</span>
                 </div>
                 <img class="object-cover w-full h-40" src="/assets/img/front/rectangleCart2.png" alt="">
-                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5">
+                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5 lg1:text-xs sm1:text-1xs">
                     <h5 class="uppercase">GROHE</h5>
                     <span>Art. 28512001</span>
                 </div>
-                <h2 class="text-lg leading-6 text-gray-900 pt-2">Setul dușului igienic Grohe Bau Edge</h2>
-                <div class="flex justify-between pt-7">
-                    <a href="#" class="bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal">
+                <h2 class="text-lg leading-6 text-gray-900 pt-2 lg1:text-sm sm1:text-1xs">Setul dușului igienic Grohe Bau Edge</h2>
+                <div class="flex justify-between pt-7 lg1:block">
+                    <a href="#" class="relative bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal lg1:text-xs lg1:-top-6 lg1:mr-0 lg1:px-0 sm1:text-1xs">
                         <i class="fas fa-shopping-cart pr-2"></i>
                         В корзину
                     </a>
@@ -66,19 +66,19 @@
             </div>
         </div>
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="relative bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-20 lg1:w-10">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
-                    <h5 class="text-xl">2.650 MDL</h5>
-                    <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
+                    <h5 class="text-xl sm1:text-sm">2.650 MDL</h5>
+                    <span class="text-sky-theme text-sm line-through sm1:text-xs">3.000 MDL</span>
                 </div>
                 <img class="object-cover w-full h-40" src="/assets/img/front/Rectangle_2.png" alt="">
-                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5">
+                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5 lg1:text-xs sm1:text-1xs">
                     <h5 class="uppercase">GROHE</h5>
                     <span>Art. 28512001</span>
                 </div>
-                <h2 class="text-lg leading-6 text-gray-900 pt-2">Setul dușului igienic Grohe Bau Edge</h2>
-                <div class="flex justify-between pt-7">
-                    <a href="#" class="bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal">
+                <h2 class="text-lg leading-6 text-gray-900 pt-2 lg1:text-sm sm1:text-1xs">Setul dușului igienic Grohe Bau Edge</h2>
+                <div class="flex justify-between pt-7 lg1:block">
+                    <a href="#" class="relative bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal lg1:text-xs lg1:-top-6 lg1:mr-0 lg1:px-0 sm1:text-1xs">
                         <i class="fas fa-shopping-cart pr-2"></i>
                         В корзину
                     </a>
@@ -91,19 +91,19 @@
             </div>
         </div>
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="relative bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-20 lg1:w-10">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
-                    <h5 class="text-xl">2.650 MDL</h5>
-                    <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
+                    <h5 class="text-xl sm1:text-sm">2.650 MDL</h5>
+                    <span class="text-sky-theme text-sm line-through sm1:text-xs">3.000 MDL</span>
                 </div>
                 <img class="object-cover w-full h-40" src="/assets/img/front/rectangleCart2.png" alt="">
-                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5">
+                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5 lg1:text-xs sm1:text-1xs">
                     <h5 class="uppercase">GROHE</h5>
                     <span>Art. 28512001</span>
                 </div>
-                <h2 class="text-lg leading-6 text-gray-900 pt-2">Setul dușului igienic Grohe Bau Edge</h2>
-                <div class="flex justify-between pt-7">
-                    <a href="#" class="bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal">
+                <h2 class="text-lg leading-6 text-gray-900 pt-2 lg1:text-sm sm1:text-1xs">Setul dușului igienic Grohe Bau Edge</h2>
+                <div class="flex justify-between pt-7 lg1:block">
+                    <a href="#" class="relative bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal lg1:text-xs lg1:-top-6 lg1:mr-0 lg1:px-0 sm1:text-1xs">
                         <i class="fas fa-shopping-cart pr-2"></i>
                         В корзину
                     </a>
@@ -116,19 +116,19 @@
             </div>
         </div>
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="relative bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-20 lg1:w-10">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
-                    <h5 class="text-xl">2.650 MDL</h5>
-                    <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
+                    <h5 class="text-xl sm1:text-sm">2.650 MDL</h5>
+                    <span class="text-sky-theme text-sm line-through sm1:text-xs">3.000 MDL</span>
                 </div>
                 <img class="object-cover w-full h-40" src="/assets/img/front/rectangleCart2.png" alt="">
-                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5">
+                <div class="flex justify-between items-center text-sm text-gray-400 pt-3.5 lg1:text-xs sm1:text-1xs">
                     <h5 class="uppercase">GROHE</h5>
                     <span>Art. 28512001</span>
                 </div>
-                <h2 class="text-lg leading-6 text-gray-900 pt-2">Setul dușului igienic Grohe Bau Edge</h2>
-                <div class="flex justify-between pt-7">
-                    <a href="#" class="bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal">
+                <h2 class="text-lg leading-6 text-gray-900 pt-2 lg1:text-sm sm1:text-1xs">Setul dușului igienic Grohe Bau Edge</h2>
+                <div class="flex justify-between pt-7 lg1:block">
+                    <a href="#" class="relative bg-sky-theme rounded-xl py-3 px-8 w-full mr-2.5 text-center text-white text-sm leading-normal lg1:text-xs lg1:-top-6 lg1:mr-0 lg1:px-0 sm1:text-1xs">
                         <i class="fas fa-shopping-cart pr-2"></i>
                         В корзину
                     </a>
@@ -145,30 +145,30 @@
 
 <div class="grid gap-6 grid-cols-4 py-14">
     <div class="bg-gray-300 rounded-card flex justify-start items-center">
-        <img class="rounded-full p-3.5 w-24" src="/public/i/null.png" alt="">
+        <img class="rounded-full p-3.5 w-24 lg1:width-3 sm1:hidden" src="/public/i/null.png" alt="">
         <h2 class="pl-2">
-            <span class="block text-lg">Инсталяции</span>
-            <a href="#" class="underline text-sm">Перейти каталог</a>
+            <span class="block text-lg lg1:text-sm">Инсталяции</span>
+            <a href="#" class="underline text-sm lg1:text-xs">Перейти каталог</a>
         </h2>
     </div>
     <div class="bg-white border-2 border-solid border-gray-300 rounded-card flex justify-start items-center">
-        <img class="rounded-full p-3.5 w-24" src="/public/i/null.png" alt="">
+        <img class="rounded-full p-3.5 w-24 lg1:width-3 sm1:hidden" src="/public/i/null.png" alt="">
         <h2 class="pl-2">
-            <span class="block text-lg">Для ванной</span>
-            <a href="#" class="underline text-sm">Перейти каталог</a>
+            <span class="block text-lg lg1:text-sm">Для ванной</span>
+            <a href="#" class="underline text-sm lg1:text-xs">Перейти каталог</a>
         </h2>
     </div>
     <div class="bg-[#2F2A2A] text-white rounded-card flex justify-start items-center">
-        <img class="rounded-full p-3.5 w-24" src="/public/i/null.png" alt="">
+        <img class="rounded-full p-3.5 w-24 lg1:width-3 sm1:hidden" src="/public/i/null.png" alt="">
         <h2 class="pl-2">
-            <span class="block text-lg">Для туалета</span>
-            <a href="#" class="underline text-sm">Перейти каталог</a>
+            <span class="block text-lg lg1:text-sm">Для туалета</span>
+            <a href="#" class="underline text-sm lg1:text-xs">Перейти каталог</a>
         </h2>
     </div>
 </div>
 
 <div class="bg-gray-theme rounded-bg px-7 pb-16 pt-12">
-    <div class="flex justify-center items-center text-center pb-16">
+    <div class="flex justify-center items-center text-center pb-16 sm1:justify-between">
         <span class="text-4xl pr-0 sm:pr-8">Инсталяции</span>
         <a class="py-2.5 px-6 border border-sky-theme border-solid rounded-full text-sm" href="/<?= $lclang ?>/<?= $menu['all'][2]->uri ?>">
             <span class="pr-8">Перейти в каталог</span>
@@ -178,9 +178,9 @@
         </a>
     </div>
 
-    <div class="home-product-slider">
-        <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+    <div class="relative w-90 left-50">
+        <div class="">
+            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-15">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
                     <h5 class="text-xl">2.650 MDL</h5>
                     <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
@@ -208,16 +208,16 @@
 </div>
 
 <div class="px-7 pt-16 pb-16">
-    <div class="flex justify-center items-center text-center pb-16">
+    <div class="flex justify-center items-center text-center pb-16 sm1:justify-between">
         <span class="text-4xl pr-0 sm:pr-8">Для ванной</span>
         <a class="py-2.5 px-6 border border-sky-theme border-solid rounded-full" href="#">Перейти в каталог
             <i class="fas fa-long-arrow-alt-right pl-8"></i>
         </a>
     </div>
 
-    <div class="home-product-slider">
+    <div class="relative w-90 left-50">
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-15">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
                     <h5 class="text-xl">2.650 MDL</h5>
                     <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
@@ -246,16 +246,16 @@
 
 
 <div class="bg-gray-theme rounded-bg px-7 pb-16 pt-12">
-    <div class="flex justify-center items-center text-center pb-16">
+    <div class="flex justify-center items-center text-center pb-16 sm1:justify-between">
         <span class="text-4xl pr-0 sm:pr-8">Для туалета</span>
         <a class="py-2.5 px-6 border border-sky-theme border-solid rounded-full" href="#">Перейти в каталог
             <i class="fas fa-long-arrow-alt-right pl-8"></i>
         </a>
     </div>
 
-    <div class="home-product-slider">
+    <div class="relative w-90 left-50">
         <div>
-            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3">
+            <div class="bg-white rounded-card p-3.5 border-2 border-white border-solid hover:border-2 shadow-card hover:border-gray-200 mx-3 xl0:w-15">
                 <div class="flex justify-between items-center pb-3.5 px-2.5">
                     <h5 class="text-xl">2.650 MDL</h5>
                     <span class="text-sky-theme text-sm line-through">3.000 MDL</span>
@@ -280,6 +280,5 @@
             </div>
         </div>
     </div>
-</div>
 
 <?php $this->load->view("layouts/footer/pre_footer"); ?>
