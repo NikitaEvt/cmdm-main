@@ -2,7 +2,7 @@
             <div class="relative">
                 <h1 class="text-white text-8xl absolute -translate-y-2/4 top-2/4 left-32">
                     <span class="block leading-10 lg1:text-xl lg1:text-xl2"><span class="font-bold lg1:text-xl lg1:text-xl2">Set de</span> dus igienic</span>
-                    <span class="relative text-6xl lg1:text-xl2 lg1:-top-9">2999 mdl</span>
+                    <span class="relative text-6xl lg1:text-xl2">2999 mdl</span>
                 </h1>
                 <img class="w-full" src="/assets//img//front/home.png" alt="">
             </div>

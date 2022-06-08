@@ -53,6 +53,4 @@
                     <span class="pl-2.5 lg1:text-sm">Parteneriatele cu principalii producători europeni?</span>
                 </li>
             </ul>
-        </div>
-    </div>
-</div>
+        </div> </div>
