@@ -1,3 +1,5 @@
+<?php $this->load->view("layouts/header/slider"); ?>
+
 <div class="bg-gray-theme pt-0 rounded-b-bg px-7 pb-16">
     <div class="flex justify-center items-center text-center pb-16">
         <svg class="inline-block" width="30" height="28" viewBox="0 0 30 28" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -494,3 +496,5 @@
             </div>
         </div>
     </div>
+
+<?php $this->load->view("layouts/footer/pre_footer"); ?>
